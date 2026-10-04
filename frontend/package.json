@@ -1,0 +1,25 @@
+{
+  "name": "airbag-app-polish",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Airbag — depeg cover that deploys itself. Parametric USDG cover on 1inch Aqua.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.102.8",
+    "next": "^16.3.4",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "viem": "^2.56.3",
+    "wagmi": "^3.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^5.7.0"
+  }
+}
